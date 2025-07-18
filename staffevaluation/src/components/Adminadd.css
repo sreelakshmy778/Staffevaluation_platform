@@ -1,0 +1,37 @@
+.form_admin_add{
+    border: 2px solid black;
+    height: 600px;
+    max-width: 500px;
+    margin: auto;
+    padding-top: 20px;
+     background-color: #dddddd;
+     border-color: transparent;
+}
+.add_label_admin{
+position: absolute;
+margin-left: 10px;
+margin-top: 10px;
+}
+.add_input_admin{
+    /* display: block; */
+/* position: absolute; */
+margin-top: 40px;
+margin-left: 10px;
+border-top: 2px;
+/* text-decoration: underline; */
+border-left: transparent;
+border-right: transparent;
+width: 300px;
+background-color: transparent;
+
+}
+#add_btn_admin{
+width: 300px;
+margin-top: 30px;
+height: 30px;
+border-color: transparent;
+font-size: 16px;
+color: white;
+font-weight: bold;
+background-color: rgb(14, 38, 71);
+}

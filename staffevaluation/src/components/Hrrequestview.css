@@ -1,0 +1,29 @@
+.view{
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.req_title{
+ text-align: left;
+ color: white;
+ font-size: 20px;
+ padding-top: 5px;
+ font-weight: normal;padding-left: 20px;
+ height: 40px;
+
+ margin-top: 0px;
+  /* margin-top: 20px; */
+  background-color: rgb(41, 41, 107);
+  /* text-decoration: underline; */
+}
+.req_des{
+ text-align: left;
+  margin-top: 20px;
+  padding-left: 20px;
+}
+.view_request{
+  border: 1px solid;
+  width: 800px;
+  margin-top: 20px;
+}

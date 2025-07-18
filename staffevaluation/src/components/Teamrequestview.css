@@ -1,0 +1,26 @@
+.table_teamrequest{
+      font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:50%;
+  margin: auto;
+  border-color: white;
+  margin-top: 40px;
+  background-color: rgba(236, 239, 210, 0.288);
+}
+td, th {
+  border: 3px solid white !important;
+  text-align: left;
+  padding: 8px;
+}
+.table_teamtask  th{
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: left;
+    border-color: white;
+}
+.team_teamtask tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.table_teamrequest td{
+    height: 50px;
+}

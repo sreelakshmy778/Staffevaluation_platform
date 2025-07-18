@@ -1,0 +1,56 @@
+.login_form{
+    border: 2px solid black;
+    height: 340px;
+    margin-top: 140px !important;
+    max-width: 650px;
+    margin: auto;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+/* .llab{
+  margin-left: -300px;
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+} */
+
+.login{
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+}
+.linp{
+    display: block;
+    gap: 40px;
+    margin-top: 13px;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+#login_btn{
+    margin: auto;
+    /* position: absolute; */
+    width: 300px;
+    margin-top: 20px;
+height: 33px;
+border-radius: 5px;
+background-color: rgb(4, 4, 153);
+color: white;
+font-weight: bold;
+    
+    /* margin: auto; */
+}
+.create_account{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: -230px;
+    font-size: 18px;
+}

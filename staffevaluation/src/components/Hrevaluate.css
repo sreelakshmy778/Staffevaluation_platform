@@ -1,0 +1,48 @@
+.evaluationtable_hr {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+  border: 2px solid;
+  border-color: white;
+  margin-top: 40px;
+  margin: auto;
+  /* border: 2px solid; */
+  border-radius: 10px;
+   background-color: rgba(76, 154, 172, 0.253);
+  /* margin-left: 250px; */
+}
+
+.evaluationtable_hr td, th {
+  border: 3px solid rgb(49, 15, 15);
+  text-align: left;
+  padding: 8px;
+}
+.evaluationtable_hr th{
+    font-size: 20px;
+    border-color: white;
+    /* border: 2px solid red !important; */
+}
+.admintable tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.evaluationtable_hr td{
+    height: 30px;
+}
+#btn_hrevaluate{
+    margin-top: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 150px;
+    color: white;
+    border: 2px dotted;
+    font-size: 16px;
+    border-color: transparent;
+    border-radius: 15px;
+    background-color: rgba(30, 19, 19, 0.9);
+}
+.number-box{
+  border-color: transparent;
+  /* background-color: transparent; */
+  /* border-color: rgba(254, 252, 252, 0.548); */
+  height: 25px;
+}

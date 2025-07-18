@@ -1,0 +1,43 @@
+.signup_form{
+border: 2px solid;
+max-width: 550px;
+margin: auto;
+height: 730px;
+
+}
+.slab{
+ position: absolute;
+  font-size: 18px;
+margin-top: 16px;
+  margin-bottom: 10px !important;
+  margin-left: 24px;
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.sinp{
+    /* display: block; */
+    width: 300px;
+    margin-left: 25px;
+   border-radius: 5px;
+    height: 30px;
+    margin-top: 38px !important;
+}
+#sign_btn{
+    width: 300px;
+    height: 33px;
+    margin-left:20px ;
+    margin-top: 30px;
+    background-color: rgb(4, 4, 153);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.signup{
+    font-size: 33px;
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}

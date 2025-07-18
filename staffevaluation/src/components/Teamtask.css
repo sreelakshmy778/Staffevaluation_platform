@@ -1,0 +1,44 @@
+.table_teamtask {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:70%;
+  margin: auto;
+  border-color: white;
+  margin-top: 40px;
+  background-color: rgba(236, 239, 210, 0.288);
+  /* margin-left: 250px; */
+}
+
+ td, th {
+  border: 3px solid white !important;
+  text-align: left;
+  padding: 8px;
+}
+.table_teamtask  th{
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: left;
+    border-color: white;
+}
+.team_teamtask tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.table_teamtask td{
+    height: 50px;
+}
+.taskinput{
+    height: 30px;
+    background-color: transparent;
+    width: 200px;
+}
+#teamtask_btn{
+    height: 30px;
+    width: 150px;
+    position: relative;
+    margin-left: -80px;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom:20px;
+}

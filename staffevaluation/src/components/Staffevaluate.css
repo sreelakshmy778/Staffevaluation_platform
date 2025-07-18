@@ -1,0 +1,39 @@
+.staffevaluate_table{
+/* border: 2px solid; */
+    width: 1100px;
+    background-color: rgba(163, 186, 186, 0.225);
+    margin: auto;
+}
+
+.staffevaluate_table th{
+    color: rgb(10, 49, 116);
+    font-size: 18px !important;
+}
+.staffevaluate_table td, th {
+  /* border: 1px solid #621d53; */
+  text-align: left;
+  /* padding: 8px; */
+}
+
+
+ td, th {
+  border: 1px solid white !important;
+  text-align: left;
+  padding: 8px;
+}
+.staffevaluate_table th{
+    font-size: 20px;
+    /* padding-left: 20px; */
+    text-align: left;
+    border-color: white;
+        font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.staffevaluate_table td{
+    height: 50px;
+    padding: 5px;
+}

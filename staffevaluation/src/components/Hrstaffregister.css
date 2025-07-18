@@ -1,0 +1,36 @@
+.hrregister_form{
+    border: 3px solid rgb(209, 200, 200);
+    height: 650px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+     background-color: rgba(76, 154, 172, 0.253);
+     border-color: transparent;
+}
+.lab_hrregister{
+    position: absolute;
+
+margin-left: 0px;
+padding-top: 10px;
+margin-top: 5px;
+}
+.inp_hrregister{
+/* display: block; */
+margin: auto;
+padding-top:10px ;
+width: 300px;
+margin-top: 40px;
+border-color: transparent;
+}
+#btn-hrreg{
+    width: 300px;
+    color: white;
+    background-color: rgb(4, 4, 153);
+    margin-top: 15px;
+    height: 33px;
+    border-radius: 10px;
+    font-size: 15px;
+    border-color: transparent;
+    font-weight: bold;
+}

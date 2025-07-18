@@ -1,0 +1,35 @@
+.hr_teamevaluate{
+font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:70%;
+  margin: auto;
+  border-color: white;
+  margin-top: 40px;
+  background-color: rgba(236, 239, 210, 0.288);
+}
+
+ td, th {
+  border: 3px solid white;
+  text-align: left;
+  padding: 8px;
+}
+.hr_teamevaluate th{
+    font-size: 20px;
+    /* padding-left: 20px; */
+    text-align: left;
+    border-color: white;
+        font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.table_teamtask td{
+    height: 50px;
+}
+.taskinput{
+    height: 30px;
+    background-color: transparent;
+    width: 200px;
+}

@@ -1,0 +1,94 @@
+nav{
+    height: 105px;
+    /* border: 2px solid; */
+    /* color: white; */
+    background-color: rgb(9, 9, 71);
+}
+.logout{
+    position: absolute;
+  cursor: pointer;
+  margin-left: 620px;
+  margin-top:45px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.layout {
+  display: flex;
+  height: 97vh;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: left;
+  display: flex;
+  margin-left: -42px;
+  margin-top: 90px;
+  text-decoration: underline;
+  flex-direction: column;
+  gap: 15px;
+  background-color: rgb(9, 9, 71);
+ 
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: #f5f0f0;
+  font-weight: 500;
+  font-size: 22px;
+  border: none;
+
+}
+
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  
+  /* color: white !important; */
+  font-size: 22px;
+  gap: 40px;
+   margin-top: 42px;
+  text-decoration: none !important;
+  /* padding: 10px 20px; */
+  
+} 
+
+
+.header a {
+  text-decoration: none;
+  color: rgb(235, 228, 228);
+  font-weight: bold;
+}
+
+.header_elements{
+  display: flex;
+  padding-top: 42px;
+  font-size: 22px;
+  align-items: flex-start;
+  justify-content: left;
+  color: white;
+  margin-left: 30px;
+  gap: 20px;
+}
+.header_elements a{
+  text-decoration: none;
+color: white;
+font-weight: bold;
+}

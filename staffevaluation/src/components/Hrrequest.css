@@ -1,0 +1,57 @@
+.send_request{
+    font-size: 35px;
+    padding-top: 35px;
+}
+
+.form_hr{
+    /* border: 2px solid; */
+    max-width: 550px;
+    margin: auto;
+    margin-top: 30px;
+    height: 380px;
+    background-color: rgba(76, 154, 172, 0.253);
+    border-radius: 25px;
+}
+.requestt_label{
+position: absolute;
+margin-left: -20px;
+margin-top: 55px;
+font-size: 17px;
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.request_input{
+margin-left: 50px;
+border: transparent;
+height: 30px;
+width: 300px;
+}
+.request_input1{
+    margin-left:50px ;
+    height: 50px;
+    margin-top: 40px;
+    width: 300px;
+    border: transparent;
+}
+
+.requestt_label1{
+ margin-top: 50px !important;
+ /* position: absolute; */
+margin-left: -20px !important;
+font-size: 17px;
+ font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+#btn_hrrequest{
+    width: 200px;
+    margin-top: 30px;
+    height: 30px;
+    background-color: rgb(4, 4, 153);
+    color: white;
+    font-weight: bold;
+    /* margin-bottom: 15px !important; */
+}

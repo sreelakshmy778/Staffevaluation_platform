@@ -1,0 +1,28 @@
+.admintable{
+    /* border: 2px solid; */
+    
+}
+.admintable {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 1250px;
+  margin-top: 40px;
+  margin-left: 250px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+ .admintable tr:nth-child(even) {
+  background-color: #dddddd;
+}
+#delete,#update{
+  background-color: rgb(4, 4, 153);
+  color: white;
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}

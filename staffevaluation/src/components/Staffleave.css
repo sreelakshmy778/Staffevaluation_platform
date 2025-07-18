@@ -1,0 +1,73 @@
+.leave_form{
+    /* border: 2px solid; */
+    height: 400px;
+    max-width: 390px;
+    padding: 10px;
+    margin: auto;
+    background-color: rgba(163, 186, 186, 0.225);
+}
+.leave_label{
+position: absolute;
+margin-top: 20px;
+        font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+.leave_input{
+    /* border-top: 2px; */
+    /* border-left: 2px; */
+    /* border-right: 2px; */
+        width: 250px;
+        height: 25px;
+    margin-top: 45px;
+    text-decoration: underline;
+/* position: absolute; */
+}
+#leave_id{
+    background-color: rgba(251, 103, 35, 0.578);
+    color: white;
+    margin-top: 30px;
+    width: 250px;
+    height: 27px;
+    border-color: transparent;
+    font-weight: bold;
+}
+
+
+
+.leave_status{
+    font-size: 25px;
+    margin-top: 60px;
+}
+.table_task{
+      font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:70%;
+  
+  margin: auto;
+  border-color: rgb(48, 10, 10) !important;
+  margin-top: 20px;
+  background-color: rgba(163, 186, 186, 0.225);
+  
+}
+
+td, th {
+  border: 4px solid rgb(255, 255, 255);
+  text-align: left;
+  padding: 8px;
+}
+.table_task  th{
+    font-size: 20px;
+    /* padding-left: 20px; */
+    text-align: left;
+    border-color: white;
+}
+.table_task tr:nth-child(even) {
+  background-color: #fefdfd;
+}
+.table_task td{
+    height: 30px;
+    font-size: 16px;
+}
